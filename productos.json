@@ -1,0 +1,29 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Camiseta",
+        "descripcion": "Una camiseta cómoda y fresca para cualquier ocasión",
+        "precio": 20,
+        "imagen": "camiseta.png",
+        "tallas": ["S", "M", "L"]
+      },
+      {
+        "id": 2,
+        "nombre": "Pantalón",
+        "descripcion": "Un pantalón elegante y moderno para lucir en cualquier evento",
+        "precio": 50,
+        "imagen": "pantalon.png",
+        "tallas": ["32", "34", "36", "38"]
+      },
+      {
+        "id": 3,
+        "nombre": "Zapatos",
+        "descripcion": "Unos zapatos cómodos y duraderos para caminar todo el día",
+        "precio": 80,
+        "imagen": "zapatos.png",
+        "tallas": ["37", "38", "39", "40", "41", "42", "43", "44"]
+      }
+    ]
+  }
+  
